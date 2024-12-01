@@ -18,3 +18,6 @@
 
 ### 渗透测试手册-WEB安全漏洞.pdf
 ![image](https://github.com/user-attachments/assets/234fed0b-da94-47da-a792-6cdd9e69f826)
+
+### 二进制安全学习笔记.pdf
+![image](https://github.com/user-attachments/assets/fb293a8f-9321-4e78-b2f3-69a6eed9128a)
